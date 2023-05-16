@@ -1,4 +1,8 @@
 # Credit Card Fraud Prediction Readme
+Throughout this project I created a tensorflow neural network to make a binary classification prediction on credit card transaction.
+
+
+
 
 # Data Processing
 ## Loading the libraries and dataset
